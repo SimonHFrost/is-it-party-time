@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, IsitpartytimeActivity!</string>
+    <string name="app_name">Is it party time?</string>
+
+</resources>
